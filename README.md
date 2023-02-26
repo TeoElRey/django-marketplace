@@ -1,5 +1,4 @@
 # django-marketplace
-<sub>This project was built entirely from scratch using django</sub>
 
 This project is a basic Ecommerce website designed to improve my skills and capabilities with django.
 The project models other more popular marketplace websites such as facebook marketplace, ebay, etc.
