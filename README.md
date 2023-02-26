@@ -15,4 +15,4 @@ This project includes all of the following features and more:
 With technology taking over the world, and commerce being more prominent online than anywhere else, there is no better place to make money than online!
 This project is a representation of what a modern-day Ecommerce website needs in order to function successfully.
 
-# This project was built entirely from scratch using django
+<sub>This project was built entirely from scratch using django</sub>
